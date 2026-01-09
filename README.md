@@ -6,3 +6,6 @@ CSS: Styles the page (e.g., centers
 the game,setsbackgroundcolorsadjusts canvas size)
 main JavaScript: Handles all game logic—including physics, controls, collision detection,
 Tap the Run button (play icon) to start the game to control:Press the screen to Play 
+
+
+https://github.com/reyesjuanmiguel808-pixel/DC101-another-sore-REYES-JUAN-MIGUEL..git
